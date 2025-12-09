@@ -390,7 +390,7 @@ seeact_agent_files/
 
 ## 🔍 How VGAP Works
 
-1. **Element Extraction**: Extract interactive elements from DOM with bounding boxes
+1. **Element Extraction**: Extract interactive elements with bounding boxes
 2. **Prompt Construction**: Format elements for VGAP: `[idx] <tag>description</tag> bbox:(x1,y1,x2,y2)`
 3. **VGAP Inference**: Query VGAP model to predict optimal crop region
 4. **Postprocessing**: Parse coordinates with multi-strategy fallback
