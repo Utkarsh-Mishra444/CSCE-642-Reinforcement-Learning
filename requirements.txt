@@ -1,0 +1,23 @@
+# VGAP - Vision-Gated Action Planning
+# Dependencies for training and inference
+
+# Core ML libraries
+torch>=2.0.0
+transformers>=4.35.0
+peft>=0.6.0
+trl>=0.7.0
+bitsandbytes>=0.41.0
+accelerate>=0.24.0
+
+# Data loading
+datasets>=2.14.0
+huggingface-hub>=0.17.0
+
+# Utilities
+tqdm>=4.65.0
+numpy>=1.24.0
+
+# SeeAct Agent (optional - for web automation)
+# playwright>=1.44.0
+# seeact>=0.1.0
+
