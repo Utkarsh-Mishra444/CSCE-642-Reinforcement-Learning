@@ -545,4 +545,5 @@ If you use this work, please cite the following:
 - [SeeAct](https://github.com/OSU-NLP-Group/SeeAct) for the web agent framework
 - [Hugging Face](https://huggingface.co/) for Transformers, PEFT, and TRL libraries
 - [Qwen Team](https://github.com/QwenLM/Qwen2) for the Qwen2 model
+- GitHub Copilot for assisting with boilerplate and refactoring during code development. 
 
